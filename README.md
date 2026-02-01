@@ -44,7 +44,7 @@ The analysis is performed **entirely using SQL**, without any external tools.
 - Ensured compatibility with PostgreSQL
 - Prepared schema for large-scale querying
 
-📄 File: `01_table_creation.sql`
+📄 File: 01_table_creation.sql
 
 
 ## 🧹 02. Data Cleaning
