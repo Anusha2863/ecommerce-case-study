@@ -55,7 +55,7 @@ Performed real-world data cleaning steps including:
 - Standardized text fields
 - Created derived columns such as `revenue`, `order_date`, `order_month`, `order_year`
 
-📄 File: `02_data_cleaning.sql`
+-- <a href="https://github.com/Anusha2863/ecommerce-case-study/blob/main/02_data_cleaning.sql">data_cleaning</a>
 
 
 ## 🔍 03. Data Exploration
@@ -68,7 +68,7 @@ Explored the dataset to understand:
 - Top products by quantity and revenue
 - Average Order Value (AOV)
 
-📄 File: `03_exploration.sql`
+-- <a href="https://github.com/Anusha2863/ecommerce-case-study/blob/main/03_exploration.sql">Exploration</a>
 
 
 ## 📈 04. Business Insight Analysis
@@ -81,7 +81,7 @@ Answered business-driven questions such as:
 
 Each query is written with **business interpretation in mind**.
 
-📄 File: `04_business_insights.sql`
+-- <a href="https://github.com/Anusha2863/ecommerce-case-study/blob/main/04_business_insights.sql">Business_insights</a>
 
 ## 📊 Key Findings
 - A small number of products generate a large portion of revenue
