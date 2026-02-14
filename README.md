@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project is a **SQL-only case study** focused on analyzing an e-commerce transactional dataset to derive meaningful **business insights**.  
-The goal is to simulate a **real-world data analyst workflow** using PostgreSQL — from raw data to actionable decisions.
+The goal is to simulate a **real-world data analyst workflow** using PostgreSQL  from raw data to actionable decisions.
 
 
 ## 🧠 Business Problem
@@ -44,7 +44,7 @@ The analysis is performed **entirely using SQL**, without any external tools.
 - Ensured compatibility with PostgreSQL
 - Prepared schema for large-scale querying
 
-📄 File: 01_table_creation.sql
+-- <a href="https://github.com/Anusha2863/ecommerce-case-study/blob/main/01_table_creation.sql">Creation</a>
 
 
 ## 🧹 02. Data Cleaning
