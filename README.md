@@ -44,6 +44,9 @@ The analysis is performed **entirely using SQL**, without any external tools.
 - Ensured compatibility with PostgreSQL
 - Prepared schema for large-scale querying
 
+- <img width="1585" height="765" alt="Screenshot 2026-02-21 121432" src="https://github.com/user-attachments/assets/49ef0bde-d81e-4203-afa7-03a346b977ec" />
+
+
 -- <a href="https://github.com/Anusha2863/ecommerce-case-study/blob/main/01_table_creation.sql">Creation</a>
 
 
@@ -54,6 +57,9 @@ Performed real-world data cleaning steps including:
 - Handled missing customer IDs
 - Standardized text fields
 - Created derived columns such as `revenue`, `order_date`, `order_month`, `order_year`
+
+- <img width="1561" height="910" alt="Screenshot 2026-02-21 121734" src="https://github.com/user-attachments/assets/a676f79d-fbf9-4dee-a240-ed0d0c10566e" />
+
 
 -- <a href="https://github.com/Anusha2863/ecommerce-case-study/blob/main/02_data_cleaning.sql">data_cleaning</a>
 
@@ -68,6 +74,8 @@ Explored the dataset to understand:
 - Top products by quantity and revenue
 - Average Order Value (AOV)
 
+--<img width="1569" height="958" alt="Screenshot 2026-02-21 122746" src="https://github.com/user-attachments/assets/c3576d84-7c0d-4a9f-9168-b81a10fe6d7f" />
+
 -- <a href="https://github.com/Anusha2863/ecommerce-case-study/blob/main/03_exploration.sql">Exploration</a>
 
 
@@ -80,6 +88,9 @@ Answered business-driven questions such as:
 - What products should be prioritized for inventory and marketing?
 
 Each query is written with **business interpretation in mind**.
+
+--<img width="1573" height="920" alt="Screenshot 2026-02-21 122633" src="https://github.com/user-attachments/assets/3f5ddeef-d2ad-449e-9964-4c8409b0dda4" />
+
 
 -- <a href="https://github.com/Anusha2863/ecommerce-case-study/blob/main/04_business_insights.sql">Business_insights</a>
 
