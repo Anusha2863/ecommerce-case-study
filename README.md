@@ -46,6 +46,9 @@ The analysis is performed **entirely using SQL**, without any external tools.
 
 - <img width="1585" height="765" alt="Screenshot 2026-02-21 121432" src="https://github.com/user-attachments/assets/49ef0bde-d81e-4203-afa7-03a346b977ec" />
 
+![Uploading E-commerce SQL Case Study overview.png…]()
+
+
 
 -- <a href="https://github.com/Anusha2863/ecommerce-case-study/blob/main/01_table_creation.sql">Creation</a>
 
