@@ -47,6 +47,7 @@ The analysis is performed **entirely using SQL**, without any external tools.
 - <img width="1585" height="765" alt="Screenshot 2026-02-21 121432" src="https://github.com/user-attachments/assets/49ef0bde-d81e-4203-afa7-03a346b977ec" />
 
 
+<img width="1536" height="898" alt="E-commerce SQL Case Study overview" src="https://github.com/user-attachments/assets/62b8fb31-050f-448e-a013-c6ce375ac87a" />
 
 
 
