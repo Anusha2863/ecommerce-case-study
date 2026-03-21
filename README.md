@@ -111,12 +111,6 @@ Based on the analysis:
 - Plan campaigns around peak sales periods
 
 
-## 📝 Documentation
-A detailed, step-by-step explanation of this project — including SQL queries, outputs, insights, and decisions — is documented on WordPress.
-
-🔗 **WordPress Case Study:** *(Add your link here)*
-
-
 ## 🚀 Conclusion
 This project demonstrates:
 - Strong SQL fundamentals
